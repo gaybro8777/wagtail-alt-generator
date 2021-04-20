@@ -1,4 +1,4 @@
-wagtail==2.4
+wagtail==2.11.6
 psycopg2-binary==2.7.4
 wagtail-factories
 
